@@ -1,0 +1,23 @@
+/* 
+  Strings.strings
+  PhotoCapture
+
+  Created by Kristopher Jackson on 3/8/21.
+  
+*/
+
+"DISMISS_BUTTON" = "Dismiss";
+
+"GO_TO_SETTING_BUTTON" = "Go to Settings";
+
+"CONTINUE_BUTTON" = "Continue";
+
+"CAMERA_DISABLED_HEADER" = "Camera Disabled";
+
+"CAMERA_DISABLED_TEXT" = "Due to your privacy settings, we are unable to access your camera. To enable, go to Settings • Privacy • Camera.";
+
+"MAX_IMAGE_ALERT_TITLE" = "Max Images Reached";
+
+"IMAGE_ERROR_ALERT_TITLE" = "There was an error loading your images.";
+
+"MAX_IMAGE_ALERT_MESSAGE" = "You have reach the maximum number of images.";
